@@ -1,0 +1,2 @@
+# DisplayX
+Gerenciador de Playlist
